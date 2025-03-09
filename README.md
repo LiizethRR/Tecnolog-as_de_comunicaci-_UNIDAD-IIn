@@ -57,6 +57,15 @@ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 | **KY-038** | Sensor de sonido con micrófono para detección de ruidos ambientales. | 1 |
 | **KY-039** | Sensor de pulso utilizado para medir la frecuencia cardíaca en proyectos biomédicos. | 1 |
 | **KY-040** | Módulo encoder rotatorio utilizado para detectar movimientos angulares. | 1 |
+| **Placa Fenólica Perforada** | Placa base utilizada para el montaje de circuitos electrónicos de manera semipermanente. | 1 |
+| **LEDs** | Dispositivos semiconductores que emiten luz en diversos colores y se utilizan en señalización, iluminación y comunicación óptica. | 1 |  
+| **Resistencias** | Componentes electrónicos que limitan la corriente en un circuito eléctrico. | 1 |  
+| **Protoboard** | Placa de pruebas sin necesidad de soldadura, utilizada para el diseño y prueba de circuitos electrónicos. | 1 |  
+| **Placa Fenólica Perforada PCB 8x12cm** | Base rígida utilizada para la creación de circuitos electrónicos con soldadura. | 1 |  
+| **Cautín** | Herramienta utilizada para soldar componentes electrónicos en circuitos impresos. | 1 |  
+| **Estaño** | Material conductor utilizado para la soldadura de componentes electrónicos. | 1 |  
+| **Tarjeta SD** | Dispositivo de almacenamiento de datos utilizado en microcontroladores y sistemas embebidos. | 1 |  
+
 
 
 
