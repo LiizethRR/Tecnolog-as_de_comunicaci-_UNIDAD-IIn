@@ -68,10 +68,30 @@ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 
 
 
-
-
 | Placa controladora | Descripción | Cantidad |
 | - | - | - |
 | Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. | 1 |
 | ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
+
+
+# PARTE TEÓRICA
+
+### Quiz presencial
+
+
+### Basada en NetAcad Python Fundamentals 2
+![Imagen de WhatsApp 2025-03-06 a las 03 32 38_e990e045](https://github.com/user-attachments/assets/f5afbdd1-e7dc-4c2b-a029-d10eef484103)
+![Imagen de WhatsApp 2025-03-06 a las 08 15 50_f4d0865c](https://github.com/user-attachments/assets/06a41240-b747-48ce-b76f-2a5b01d247e9)
+![Imagen de WhatsApp 2025-03-06 a las 09 43 40_70137322](https://github.com/user-attachments/assets/b4bf75c3-accd-4bf2-ac33-90c65b592a88)
+![Imagen de WhatsApp 2025-03-06 a las 09 51 28_e5193b8b](https://github.com/user-attachments/assets/f336fba7-7565-460e-b39e-0ecd1f087ec6)
+![Imagen de WhatsApp 2025-03-06 a las 10 46 24_22cb9bfa](https://github.com/user-attachments/assets/30eed83e-f844-460c-a5a2-8fde929848c5)
+
+
+
+
+
+
+
+
+ 
 
