@@ -73,6 +73,7 @@ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 | Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. | 1 |
 | ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
 
+# VÍDEOS DE ACTIVIDADES EN CLASE
 
 # PARTE TEÓRICA
 
