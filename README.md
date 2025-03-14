@@ -74,6 +74,7 @@ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 | ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
 
 # VÍDEOS DE ACTIVIDADES EN CLASE
+https://drive.google.com/drive/folders/1yXbhBbZ8IfWtL_QEO_9hICZ8xYgfZECr
 
 # PARTE TEÓRICA
 
