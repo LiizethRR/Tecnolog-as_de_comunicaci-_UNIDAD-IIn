@@ -85,6 +85,8 @@ https://drive.google.com/file/d/1xCDNGgCwHB_SrUxGMu2EEotszD_wj5AS/view?usp=shari
 # PARTE TEÓRICA
 
 ### Quiz presencial
+![image](https://github.com/user-attachments/assets/4237fefb-8f0d-493d-9e5f-6769ca4bfd18)
+
 
 
 ### Basada en NetAcad Python Fundamentals 2
