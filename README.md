@@ -1,5 +1,5 @@
 # Tecnologías_de_comunicación_UNIDAD-IIn
-INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
+ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 
 ### ALUMNA
 #### -Ramirez Ramirez Lizeth
@@ -72,6 +72,9 @@ INSTRUMENTO DE EVALUACIÓN UNIDAD II: Tecnologías de comunicación
 | - | - | - |
 | Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. | 1 |
 | ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
+
+# Diagramas de conexión (Circuito)
+
 
 # VÍDEOS DE ACTIVIDADES EN CLASE
 https://drive.google.com/drive/folders/1yXbhBbZ8IfWtL_QEO_9hICZ8xYgfZECr
