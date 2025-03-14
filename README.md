@@ -79,6 +79,9 @@
 # VÍDEOS DE ACTIVIDADES EN CLASE
 https://drive.google.com/drive/folders/1yXbhBbZ8IfWtL_QEO_9hICZ8xYgfZECr
 
+# PLACA DE LEDS Y RESISTENCIAS
+https://drive.google.com/file/d/1xCDNGgCwHB_SrUxGMu2EEotszD_wj5AS/view?usp=sharing
+
 # PARTE TEÓRICA
 
 ### Quiz presencial
