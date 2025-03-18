@@ -74,7 +74,7 @@
 | ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
 
 # Diagramas de conexión (Circuito)
-
+https://docs.google.com/document/d/1SGoVItvS8hxHDsFPNObmtyvSqS2gk-GUFvSHWhNiwZ0/edit?tab=t.0
 
 # VÍDEOS DE ACTIVIDADES EN CLASE
 https://drive.google.com/drive/folders/1yXbhBbZ8IfWtL_QEO_9hICZ8xYgfZECr
